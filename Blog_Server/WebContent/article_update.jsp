@@ -28,7 +28,7 @@
 <body class="user-select">
 <section class="container-fluid">
   <jsp:include page="/public/head.jsp"></jsp:include>
-  
+  <!--  -->
   <div class="row">
     <jsp:include page="/public/menu.jsp"></jsp:include>
     
